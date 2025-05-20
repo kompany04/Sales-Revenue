@@ -24,7 +24,8 @@ Users can filter and explore data by:
 - Sales Channel  
 
 ## Dashboard Preview  
-![Sales Revenue Dashboard](Sales Revenue Dashboard.png)
+<img width="553" alt="image" src="https://github.com/user-attachments/assets/3d84e7b2-86e1-4496-ae48-fd375e3b0bf8" />
+
 
 ## Dataset Details  
 The dataset used for this dashboard is sourced from [Excel BI Analytics](https://excelbianalytics.com/wp/downloads-18-sample-csv-files-data-sets-for-testing-sales/) and contains 5,000 rows across 17 columns, including:  
